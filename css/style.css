@@ -138,12 +138,71 @@ nav.pagenav a {
     margin-right: 1.2em;
     text-transform: uppercase;
 }
+/*Lists*/
+/*Blog Post List*/
+ul.posts {
+	list-style-type: none;
+	padding: 0;
+}
+
+ul.posts span {
+	color: #333;
+	font-family: 'Fira Mono', monospace, 'Courier New';
+	font-size: 100%;
+}
+
+ul.news {
+	list-style-type: none;
+	padding: 0;
+    font-size: 90%;
+}
+
+ul.latest_pubs {
+	list-style-type: none;
+    padding: 0;
+    font-size: 90%;
+}
+
+ul.news span {
+	color: #333;
+	font-family: 'Fira Mono', monospace, 'Courier New';
+	font-size: 90%;
+}
+
+ul.news li {
+    padding: 5px 0;
+}
+
+ul.latest_pubs li {
+    padding: 5px 5px;
+}
+
+ol {
+  padding-left: 20px;
+}
+
+ol.publications {
+  padding-left: 30px;
+}
+
 
 /*Misc*/
 blockquote {
   font-style: italic;
   padding-left: 15px;
   border-left: 3px solid #333;
+}
+
+.MathJax {
+	font-size: 2em;
+}
+
+.MathJax .mo {
+  color: inherit;
+}
+
+.MathJax .mi {
+  color: inherit;
 }
 
 figcaption {
