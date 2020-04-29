@@ -6,9 +6,9 @@ layout: post
 slug: first-and-foremost
 title: First and Foremost
 categories:
-- Housekeeping
+- Introductions
 tags:
-- housekeeping
+- introductions
 ---
 
 First and foremost, this is a blog of no interest, to anyone, but myself.
