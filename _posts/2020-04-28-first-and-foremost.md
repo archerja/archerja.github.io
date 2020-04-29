@@ -1,7 +1,6 @@
 ---
 author: archerja
-comments: false
-date: 2020-04-28 19:47:02+00:00
+date: 2020-04-28 22:21
 layout: post
 slug: first-and-foremost
 title: First and Foremost
